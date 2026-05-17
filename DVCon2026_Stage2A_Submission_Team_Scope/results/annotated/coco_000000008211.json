@@ -1,0 +1,389 @@
+{
+  "image": "coco_000000008211.jpg",
+  "detections": [
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.293,
+      "box": [
+        476.94,
+        255.09,
+        518.6,
+        353.91
+      ],
+      "box_norm": [
+        0.7778,
+        0.6634,
+        0.0651,
+        0.2153
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.2633,
+      "box": [
+        323.61,
+        280.21,
+        371.15,
+        345.35
+      ],
+      "box_norm": [
+        0.5428,
+        0.6814,
+        0.0743,
+        0.1419
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.2617,
+      "box": [
+        413.2,
+        285.09,
+        451.16,
+        336.02
+      ],
+      "box_norm": [
+        0.6753,
+        0.6766,
+        0.0593,
+        0.111
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.1436,
+      "box": [
+        478.92,
+        255.07,
+        541.07,
+        356.05
+      ],
+      "box_norm": [
+        0.7969,
+        0.6657,
+        0.0971,
+        0.22
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.1367,
+      "box": [
+        347.96,
+        185.64,
+        375.39,
+        209.63
+      ],
+      "box_norm": [
+        0.5651,
+        0.4306,
+        0.0429,
+        0.0523
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.1039,
+      "box": [
+        324.05,
+        254.93,
+        329.74,
+        344.51
+      ],
+      "box_norm": [
+        0.5108,
+        0.653,
+        0.0089,
+        0.1952
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0964,
+      "box": [
+        335.19,
+        289.43,
+        381.77,
+        345.3
+      ],
+      "box_norm": [
+        0.5601,
+        0.6914,
+        0.0728,
+        0.1217
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0905,
+      "box": [
+        323.93,
+        203.84,
+        375.77,
+        347.07
+      ],
+      "box_norm": [
+        0.5466,
+        0.6001,
+        0.081,
+        0.312
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0904,
+      "box": [
+        312.32,
+        190.2,
+        348.07,
+        219.4
+      ],
+      "box_norm": [
+        0.5159,
+        0.4462,
+        0.0559,
+        0.0636
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0902,
+      "box": [
+        272.74,
+        196.45,
+        298.25,
+        218.03
+      ],
+      "box_norm": [
+        0.4461,
+        0.4515,
+        0.0399,
+        0.047
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0829,
+      "box": [
+        412.63,
+        291.43,
+        449.53,
+        336.13
+      ],
+      "box_norm": [
+        0.6736,
+        0.6836,
+        0.0577,
+        0.0974
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0825,
+      "box": [
+        274.87,
+        199.26,
+        287.45,
+        217.83
+      ],
+      "box_norm": [
+        0.4393,
+        0.4543,
+        0.0197,
+        0.0405
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0777,
+      "box": [
+        286.91,
+        197.29,
+        296.77,
+        217.95
+      ],
+      "box_norm": [
+        0.456,
+        0.4523,
+        0.0154,
+        0.045
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0756,
+      "box": [
+        273.06,
+        199.51,
+        291.33,
+        207.6
+      ],
+      "box_norm": [
+        0.4409,
+        0.4435,
+        0.0285,
+        0.0176
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0615,
+      "box": [
+        625.91,
+        189.25,
+        640.65,
+        219.83
+      ],
+      "box_norm": [
+        0.9895,
+        0.4456,
+        0.023,
+        0.0666
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0596,
+      "box": [
+        599.59,
+        186.29,
+        629.85,
+        217.39
+      ],
+      "box_norm": [
+        0.9605,
+        0.4397,
+        0.0473,
+        0.0678
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0592,
+      "box": [
+        -0.06,
+        147.06,
+        9.7,
+        186.41
+      ],
+      "box_norm": [
+        0.0075,
+        0.3633,
+        0.0152,
+        0.0857
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.056,
+      "box": [
+        490.04,
+        254.46,
+        518.75,
+        335.81
+      ],
+      "box_norm": [
+        0.7881,
+        0.643,
+        0.0449,
+        0.1772
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0558,
+      "box": [
+        626.77,
+        188.67,
+        652.98,
+        198.12
+      ],
+      "box_norm": [
+        0.9998,
+        0.4213,
+        0.041,
+        0.0206
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0551,
+      "box": [
+        287.84,
+        197.73,
+        297.6,
+        205.09
+      ],
+      "box_norm": [
+        0.4574,
+        0.4388,
+        0.0153,
+        0.016
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0527,
+      "box": [
+        275.05,
+        199.7,
+        287.83,
+        207.27
+      ],
+      "box_norm": [
+        0.4397,
+        0.4433,
+        0.02,
+        0.0165
+      ]
+    },
+    {
+      "query": "a shovel, spade, fork, or digging tool",
+      "score": 0.0525,
+      "box": [
+        477.41,
+        255.46,
+        518.39,
+        353.21
+      ],
+      "box_norm": [
+        0.778,
+        0.663,
+        0.064,
+        0.213
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0507,
+      "box": [
+        630.44,
+        188.13,
+        641.53,
+        197.11
+      ],
+      "box_norm": [
+        0.9937,
+        0.4197,
+        0.0173,
+        0.0196
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0503,
+      "box": [
+        414.93,
+        231.97,
+        465.16,
+        337.71
+      ],
+      "box_norm": [
+        0.6876,
+        0.6206,
+        0.0785,
+        0.2304
+      ]
+    }
+  ]
+}
