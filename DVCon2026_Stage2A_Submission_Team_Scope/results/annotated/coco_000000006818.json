@@ -1,0 +1,293 @@
+{
+  "image": "coco_000000006818.jpg",
+  "detections": [
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.1127,
+      "box": [
+        343.34,
+        418.05,
+        425.43,
+        512.99
+      ],
+      "box_norm": [
+        0.9002,
+        0.7274,
+        0.1922,
+        0.1483
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.1058,
+      "box": [
+        157.09,
+        501.3,
+        167.04,
+        524.12
+      ],
+      "box_norm": [
+        0.3795,
+        0.8011,
+        0.0233,
+        0.0357
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.104,
+      "box": [
+        143.42,
+        216.68,
+        198.53,
+        331.36
+      ],
+      "box_norm": [
+        0.4004,
+        0.4282,
+        0.1291,
+        0.1792
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.1024,
+      "box": [
+        355.46,
+        482.26,
+        426.22,
+        584.87
+      ],
+      "box_norm": [
+        0.9153,
+        0.8337,
+        0.1657,
+        0.1603
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0977,
+      "box": [
+        154.25,
+        323.75,
+        178.77,
+        516.68
+      ],
+      "box_norm": [
+        0.39,
+        0.6566,
+        0.0574,
+        0.3015
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0941,
+      "box": [
+        143.03,
+        -0.0,
+        214.52,
+        29.12
+      ],
+      "box_norm": [
+        0.4187,
+        0.0227,
+        0.1674,
+        0.0455
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0893,
+      "box": [
+        0.74,
+        296.11,
+        35.36,
+        347.62
+      ],
+      "box_norm": [
+        0.0423,
+        0.5029,
+        0.0811,
+        0.0805
+      ]
+    },
+    {
+      "query": "a shovel, spade, fork, or digging tool",
+      "score": 0.0852,
+      "box": [
+        157.69,
+        500.33,
+        179.79,
+        561.91
+      ],
+      "box_norm": [
+        0.3952,
+        0.8299,
+        0.0518,
+        0.0962
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0775,
+      "box": [
+        181.82,
+        303.29,
+        199.55,
+        447.41
+      ],
+      "box_norm": [
+        0.4466,
+        0.5865,
+        0.0415,
+        0.2252
+      ]
+    },
+    {
+      "query": "a shovel, spade, fork, or digging tool",
+      "score": 0.0725,
+      "box": [
+        158.3,
+        528.44,
+        181.43,
+        561.43
+      ],
+      "box_norm": [
+        0.3978,
+        0.8515,
+        0.0542,
+        0.0515
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0666,
+      "box": [
+        -0.2,
+        593.03,
+        16.09,
+        642.72
+      ],
+      "box_norm": [
+        0.0186,
+        0.9654,
+        0.0381,
+        0.0776
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.066,
+      "box": [
+        201.25,
+        487.28,
+        279.77,
+        519.66
+      ],
+      "box_norm": [
+        0.5633,
+        0.7867,
+        0.1839,
+        0.0506
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0647,
+      "box": [
+        186.38,
+        305.5,
+        195.59,
+        407.9
+      ],
+      "box_norm": [
+        0.4473,
+        0.5573,
+        0.0216,
+        0.16
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0632,
+      "box": [
+        53.84,
+        573.97,
+        106.5,
+        632.33
+      ],
+      "box_norm": [
+        0.1878,
+        0.9424,
+        0.1233,
+        0.0912
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0607,
+      "box": [
+        85.85,
+        600.36,
+        106.75,
+        633.99
+      ],
+      "box_norm": [
+        0.2255,
+        0.9643,
+        0.0489,
+        0.0525
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.057,
+      "box": [
+        158.21,
+        428.84,
+        177.63,
+        469.5
+      ],
+      "box_norm": [
+        0.3933,
+        0.7018,
+        0.0455,
+        0.0635
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0569,
+      "box": [
+        187.41,
+        471.0,
+        292.74,
+        523.56
+      ],
+      "box_norm": [
+        0.5622,
+        0.777,
+        0.2467,
+        0.0821
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0511,
+      "box": [
+        326.9,
+        262.21,
+        365.6,
+        298.5
+      ],
+      "box_norm": [
+        0.8109,
+        0.4381,
+        0.0906,
+        0.0567
+      ]
+    }
+  ]
+}
