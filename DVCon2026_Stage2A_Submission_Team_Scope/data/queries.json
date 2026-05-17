@@ -1,0 +1,16 @@
+[
+  {"id":  1, "task_name": "step on something",       "query": "a stool, chair, box, or ladder to step on"},
+  {"id":  2, "task_name": "sit comfortably",          "query": "a chair, sofa, bench, or couch to sit on"},
+  {"id":  3, "task_name": "place flowers",            "query": "a vase, cup, bottle, or bowl to hold flowers"},
+  {"id":  4, "task_name": "get potatoes out of fire",  "query": "a fork, tongs, or kitchen utensil"},
+  {"id":  5, "task_name": "water plant",              "query": "a bottle, cup, bowl, or jug to carry water"},
+  {"id":  6, "task_name": "get lemon",                "query": "a spoon or fork"},
+  {"id":  7, "task_name": "dig hole",                 "query": "a shovel, spade, fork, or digging tool"},
+  {"id":  8, "task_name": "open beer",                "query": "a knife, fork, or bottle opener"},
+  {"id":  9, "task_name": "open parcel",              "query": "a knife or scissors"},
+  {"id": 10, "task_name": "serve wine",               "query": "a wine glass or drinking glass"},
+  {"id": 11, "task_name": "pour sugar",               "query": "a spoon or teaspoon"},
+  {"id": 12, "task_name": "smear butter",             "query": "a butter knife or spatula"},
+  {"id": 13, "task_name": "extinguish fire",          "query": "a bottle, bucket, bowl, or cup to carry water"},
+  {"id": 14, "task_name": "pound carpet",             "query": "a baseball bat, tennis racket, broom, or stick"}
+]
