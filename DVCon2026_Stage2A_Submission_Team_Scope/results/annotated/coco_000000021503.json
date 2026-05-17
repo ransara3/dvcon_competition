@@ -1,0 +1,101 @@
+{
+  "image": "coco_000000021503.jpg",
+  "detections": [
+    {
+      "query": "a knife or scissors",
+      "score": 0.1347,
+      "box": [
+        270.78,
+        45.55,
+        637.45,
+        143.31
+      ],
+      "box_norm": [
+        0.7096,
+        0.1967,
+        0.5729,
+        0.2037
+      ]
+    },
+    {
+      "query": "a knife or scissors",
+      "score": 0.1055,
+      "box": [
+        100.86,
+        0.24,
+        130.17,
+        66.36
+      ],
+      "box_norm": [
+        0.1805,
+        0.0694,
+        0.0458,
+        0.1378
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0689,
+      "box": [
+        224.8,
+        -1.24,
+        348.39,
+        83.57
+      ],
+      "box_norm": [
+        0.4478,
+        0.0858,
+        0.1931,
+        0.1767
+      ]
+    },
+    {
+      "query": "a knife or scissors",
+      "score": 0.058,
+      "box": [
+        2.29,
+        78.91,
+        211.56,
+        147.24
+      ],
+      "box_norm": [
+        0.1671,
+        0.2356,
+        0.327,
+        0.1424
+      ]
+    },
+    {
+      "query": "a butter knife or spatula",
+      "score": 0.0535,
+      "box": [
+        346.94,
+        176.12,
+        638.99,
+        339.78
+      ],
+      "box_norm": [
+        0.7703,
+        0.5374,
+        0.4563,
+        0.341
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.052,
+      "box": [
+        144.86,
+        0.43,
+        231.03,
+        78.24
+      ],
+      "box_norm": [
+        0.2937,
+        0.0819,
+        0.1346,
+        0.1621
+      ]
+    }
+  ]
+}
