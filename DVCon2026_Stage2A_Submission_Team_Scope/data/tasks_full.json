@@ -1,0 +1,100 @@
+[
+  {
+    "task_number": 1,
+    "name": "step on something",
+    "description": "You need to clean the top of the shelf, but you cannot reach it properly with your hands. Now you have to drag something to the shelf and step on it to reach the top of the shelf.",
+    "owl_query": "an object to step on to reach high places such as a stool chair box or ladder",
+    "typical_objects": ["chair", "suitcase", "backpack", "bench", "dining table", "box"]
+  },
+  {
+    "task_number": 2,
+    "name": "sit comfortably",
+    "description": "You have to find an object to sit on comfortably. Don't choose any if you are better off sitting on the ground.",
+    "owl_query": "a comfortable object to sit on such as a chair sofa couch or bench",
+    "typical_objects": ["chair", "couch", "bench", "bed"]
+  },
+  {
+    "task_number": 3,
+    "name": "place flowers",
+    "description": "Find a vessel to pour water into and place these flowers into to use them as decoration for as long as possible.",
+    "owl_query": "a vessel or container to hold water and place flowers in such as a vase bowl cup or bottle",
+    "typical_objects": ["vase", "cup", "bowl", "bottle", "wine glass"]
+  },
+  {
+    "task_number": 4,
+    "name": "get potatoes out of fire",
+    "description": "Find an object to get the potatoes out of the fire without burning yourself or extinguishing the fire.",
+    "owl_query": "kitchen tongs fork or tool to grab food from fire without burning",
+    "typical_objects": ["fork", "spoon", "knife", "tongs"]
+  },
+  {
+    "task_number": 5,
+    "name": "water plant",
+    "description": "Find the best vessel to get water from the tap to water the plant.",
+    "owl_query": "a vessel or container to carry water for watering plants such as a bottle cup bowl or jug",
+    "typical_objects": ["bottle", "cup", "bowl", "wine glass", "vase"]
+  },
+  {
+    "task_number": 6,
+    "name": "get lemon",
+    "description": "Find an object to get the lemon out of the very hot tea.",
+    "owl_query": "a spoon fork or tongs to retrieve a lemon from hot liquid",
+    "typical_objects": ["fork", "spoon", "knife"]
+  },
+  {
+    "task_number": 7,
+    "name": "dig hole",
+    "description": "Find an object to dig a second hole like the one shown.",
+    "owl_query": "a digging tool such as a shovel spade fork or knife",
+    "typical_objects": ["fork", "knife", "spoon", "baseball bat", "tennis racket"]
+  },
+  {
+    "task_number": 8,
+    "name": "open beer",
+    "description": "Find an object to open the beer bottle with.",
+    "owl_query": "a bottle opener key fork or knife to open a beer bottle",
+    "typical_objects": ["knife", "fork", "scissors", "key"]
+  },
+  {
+    "task_number": 9,
+    "name": "open parcel",
+    "description": "Find something to open the parcel.",
+    "owl_query": "a knife scissors or sharp cutting tool to open a parcel",
+    "typical_objects": ["scissors", "knife", "fork"]
+  },
+  {
+    "task_number": 10,
+    "name": "serve wine",
+    "description": "Serve the remaining wine to one guest. Don't choose any vessel if you are better off taking the bottle itself.",
+    "owl_query": "a wine glass cup glass or vessel to serve wine in",
+    "typical_objects": ["wine glass", "cup", "bottle"]
+  },
+  {
+    "task_number": 11,
+    "name": "pour sugar",
+    "description": "Find a tool to extract the shown amount of sugar from a pile and pour it into a tea cup with lowest possible number of tries.",
+    "owl_query": "a spoon or small scooping tool to transfer sugar into a tea cup",
+    "typical_objects": ["spoon", "fork", "cup"]
+  },
+  {
+    "task_number": 12,
+    "name": "smear butter",
+    "description": "Find an object to smear the butter on the bread as shown in the image.",
+    "owl_query": "a knife spatula or flat tool to spread butter on bread",
+    "typical_objects": ["knife", "spoon", "fork"]
+  },
+  {
+    "task_number": 13,
+    "name": "extinguish fire",
+    "description": "Find the best vessel to get water to extinguish the fire.",
+    "owl_query": "a vessel or container to carry water to extinguish fire such as a bottle bowl cup or jug",
+    "typical_objects": ["bottle", "cup", "bowl", "wine glass", "vase"]
+  },
+  {
+    "task_number": 14,
+    "name": "pound carpet",
+    "description": "Find an object which you can pound a hanging carpet with to get the dust out of it.",
+    "owl_query": "a stick bat racket broom or blunt object to beat a hanging carpet",
+    "typical_objects": ["baseball bat", "tennis racket", "skateboard", "umbrella", "broom"]
+  }
+]
