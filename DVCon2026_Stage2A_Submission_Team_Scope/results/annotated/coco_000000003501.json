@@ -1,0 +1,21 @@
+{
+  "image": "coco_000000003501.jpg",
+  "detections": [
+    {
+      "query": "a vase, cup, bottle, or bowl to hold flowers",
+      "score": 0.0822,
+      "box": [
+        12.02,
+        8.52,
+        603.23,
+        585.03
+      ],
+      "box_norm": [
+        0.5027,
+        0.4849,
+        0.966,
+        0.942
+      ]
+    }
+  ]
+}
