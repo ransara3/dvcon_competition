@@ -1,0 +1,325 @@
+{
+  "image": "coco_000000014439.jpg",
+  "detections": [
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.1543,
+      "box": [
+        385.31,
+        75.33,
+        410.73,
+        80.5
+      ],
+      "box_norm": [
+        0.6219,
+        0.1929,
+        0.0397,
+        0.0128
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.1452,
+      "box": [
+        377.12,
+        63.01,
+        381.1,
+        73.28
+      ],
+      "box_norm": [
+        0.5924,
+        0.1687,
+        0.0062,
+        0.0254
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.1422,
+      "box": [
+        98.3,
+        130.9,
+        117.73,
+        159.8
+      ],
+      "box_norm": [
+        0.1688,
+        0.3598,
+        0.0304,
+        0.0715
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.1377,
+      "box": [
+        342.93,
+        119.41,
+        502.44,
+        179.04
+      ],
+      "box_norm": [
+        0.6604,
+        0.3694,
+        0.2492,
+        0.1476
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.1079,
+      "box": [
+        329.63,
+        51.41,
+        345.1,
+        79.94
+      ],
+      "box_norm": [
+        0.5271,
+        0.1626,
+        0.0242,
+        0.0706
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.1004,
+      "box": [
+        349.87,
+        64.9,
+        354.37,
+        68.77
+      ],
+      "box_norm": [
+        0.5502,
+        0.1654,
+        0.007,
+        0.0096
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0969,
+      "box": [
+        391.96,
+        57.94,
+        394.99,
+        65.96
+      ],
+      "box_norm": [
+        0.6148,
+        0.1533,
+        0.0047,
+        0.0199
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0846,
+      "box": [
+        331.11,
+        59.62,
+        342.97,
+        69.95
+      ],
+      "box_norm": [
+        0.5266,
+        0.1604,
+        0.0185,
+        0.0256
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0781,
+      "box": [
+        582.96,
+        156.3,
+        589.04,
+        172.89
+      ],
+      "box_norm": [
+        0.9156,
+        0.4074,
+        0.0095,
+        0.0411
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0779,
+      "box": [
+        107.68,
+        63.95,
+        125.61,
+        91.04
+      ],
+      "box_norm": [
+        0.1823,
+        0.1918,
+        0.028,
+        0.0671
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0728,
+      "box": [
+        345.8,
+        154.18,
+        418.9,
+        177.97
+      ],
+      "box_norm": [
+        0.5974,
+        0.4111,
+        0.1142,
+        0.0589
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0708,
+      "box": [
+        348.08,
+        45.38,
+        366.26,
+        94.73
+      ],
+      "box_norm": [
+        0.5581,
+        0.1734,
+        0.0284,
+        0.1222
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.063,
+      "box": [
+        502.28,
+        131.72,
+        528.89,
+        153.18
+      ],
+      "box_norm": [
+        0.8056,
+        0.3526,
+        0.0416,
+        0.0531
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0628,
+      "box": [
+        506.49,
+        140.73,
+        529.44,
+        175.03
+      ],
+      "box_norm": [
+        0.8093,
+        0.3908,
+        0.0359,
+        0.0849
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.062,
+      "box": [
+        350.92,
+        70.71,
+        361.31,
+        87.73
+      ],
+      "box_norm": [
+        0.5564,
+        0.1961,
+        0.0162,
+        0.0421
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0581,
+      "box": [
+        108.63,
+        70.13,
+        124.36,
+        91.86
+      ],
+      "box_norm": [
+        0.182,
+        0.2005,
+        0.0246,
+        0.0538
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0576,
+      "box": [
+        303.57,
+        166.81,
+        310.66,
+        171.98
+      ],
+      "box_norm": [
+        0.4799,
+        0.4193,
+        0.0111,
+        0.0128
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0552,
+      "box": [
+        391.73,
+        61.05,
+        395.37,
+        66.79
+      ],
+      "box_norm": [
+        0.6149,
+        0.1582,
+        0.0057,
+        0.0142
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0515,
+      "box": [
+        99.8,
+        67.03,
+        104.4,
+        71.79
+      ],
+      "box_norm": [
+        0.1595,
+        0.1718,
+        0.0072,
+        0.0118
+      ]
+    },
+    {
+      "query": "a baseball bat, tennis racket, broom, or stick",
+      "score": 0.0508,
+      "box": [
+        388.85,
+        75.31,
+        411.17,
+        80.49
+      ],
+      "box_norm": [
+        0.625,
+        0.1928,
+        0.0349,
+        0.0128
+      ]
+    }
+  ]
+}
