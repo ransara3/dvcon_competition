@@ -1,0 +1,117 @@
+{
+  "image": "coco_000000016228.jpg",
+  "detections": [
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0983,
+      "box": [
+        131.58,
+        237.68,
+        229.45,
+        309.29
+      ],
+      "box_norm": [
+        0.2821,
+        0.6216,
+        0.1529,
+        0.1628
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0797,
+      "box": [
+        133.24,
+        219.48,
+        205.62,
+        258.9
+      ],
+      "box_norm": [
+        0.2647,
+        0.5436,
+        0.1131,
+        0.0896
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0708,
+      "box": [
+        574.0,
+        193.4,
+        599.9,
+        216.73
+      ],
+      "box_norm": [
+        0.9171,
+        0.4661,
+        0.0405,
+        0.053
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0678,
+      "box": [
+        132.74,
+        219.16,
+        220.51,
+        294.02
+      ],
+      "box_norm": [
+        0.276,
+        0.5832,
+        0.1371,
+        0.1701
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0577,
+      "box": [
+        237.79,
+        216.2,
+        323.39,
+        243.93
+      ],
+      "box_norm": [
+        0.4384,
+        0.5229,
+        0.1337,
+        0.063
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0542,
+      "box": [
+        181.32,
+        253.55,
+        218.82,
+        289.71
+      ],
+      "box_norm": [
+        0.3126,
+        0.6173,
+        0.0586,
+        0.0822
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0526,
+      "box": [
+        128.82,
+        266.22,
+        230.97,
+        316.58
+      ],
+      "box_norm": [
+        0.2811,
+        0.6623,
+        0.1596,
+        0.1145
+      ]
+    }
+  ]
+}
