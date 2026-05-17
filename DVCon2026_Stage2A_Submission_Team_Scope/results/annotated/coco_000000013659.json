@@ -1,0 +1,405 @@
+{
+  "image": "coco_000000013659.jpg",
+  "detections": [
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.1093,
+      "box": [
+        404.01,
+        118.68,
+        494.4,
+        155.87
+      ],
+      "box_norm": [
+        0.7019,
+        0.286,
+        0.1412,
+        0.0775
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.1013,
+      "box": [
+        367.38,
+        290.45,
+        485.3,
+        475.63
+      ],
+      "box_norm": [
+        0.6662,
+        0.798,
+        0.1843,
+        0.3858
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0976,
+      "box": [
+        477.89,
+        171.13,
+        573.83,
+        316.42
+      ],
+      "box_norm": [
+        0.8217,
+        0.5079,
+        0.1499,
+        0.3027
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0939,
+      "box": [
+        528.18,
+        133.1,
+        551.12,
+        150.46
+      ],
+      "box_norm": [
+        0.8432,
+        0.2954,
+        0.0358,
+        0.0362
+      ]
+    },
+    {
+      "query": "a knife or scissors",
+      "score": 0.0877,
+      "box": [
+        433.48,
+        65.29,
+        444.79,
+        89.88
+      ],
+      "box_norm": [
+        0.6861,
+        0.1616,
+        0.0177,
+        0.0512
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0801,
+      "box": [
+        -0.43,
+        393.52,
+        38.77,
+        445.21
+      ],
+      "box_norm": [
+        0.03,
+        0.8737,
+        0.0613,
+        0.1077
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0783,
+      "box": [
+        539.25,
+        137.65,
+        610.81,
+        263.93
+      ],
+      "box_norm": [
+        0.8985,
+        0.4183,
+        0.1118,
+        0.2631
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0769,
+      "box": [
+        254.59,
+        180.35,
+        281.55,
+        199.9
+      ],
+      "box_norm": [
+        0.4189,
+        0.3961,
+        0.0421,
+        0.0407
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0759,
+      "box": [
+        315.0,
+        142.51,
+        394.8,
+        267.93
+      ],
+      "box_norm": [
+        0.5545,
+        0.4275,
+        0.1247,
+        0.2613
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0757,
+      "box": [
+        189.32,
+        126.08,
+        264.51,
+        192.2
+      ],
+      "box_norm": [
+        0.3546,
+        0.3315,
+        0.1175,
+        0.1377
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0748,
+      "box": [
+        391.2,
+        137.41,
+        412.34,
+        163.44
+      ],
+      "box_norm": [
+        0.6278,
+        0.3134,
+        0.033,
+        0.0542
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0743,
+      "box": [
+        36.42,
+        420.38,
+        73.9,
+        479.28
+      ],
+      "box_norm": [
+        0.0862,
+        0.9371,
+        0.0586,
+        0.1227
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0732,
+      "box": [
+        579.58,
+        62.53,
+        608.11,
+        86.97
+      ],
+      "box_norm": [
+        0.9279,
+        0.1557,
+        0.0446,
+        0.0509
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0714,
+      "box": [
+        364.76,
+        381.27,
+        433.73,
+        476.62
+      ],
+      "box_norm": [
+        0.6238,
+        0.8936,
+        0.1078,
+        0.1986
+      ]
+    },
+    {
+      "query": "a knife, fork, or bottle opener",
+      "score": 0.0712,
+      "box": [
+        0.11,
+        392.45,
+        18.1,
+        412.43
+      ],
+      "box_norm": [
+        0.0142,
+        0.8384,
+        0.0281,
+        0.0416
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0684,
+      "box": [
+        289.17,
+        218.91,
+        325.23,
+        311.86
+      ],
+      "box_norm": [
+        0.48,
+        0.5529,
+        0.0563,
+        0.1936
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0679,
+      "box": [
+        407.71,
+        120.54,
+        425.93,
+        141.36
+      ],
+      "box_norm": [
+        0.6513,
+        0.2728,
+        0.0285,
+        0.0434
+      ]
+    },
+    {
+      "query": "a knife or scissors",
+      "score": 0.0654,
+      "box": [
+        516.07,
+        130.91,
+        520.14,
+        162.84
+      ],
+      "box_norm": [
+        0.8095,
+        0.306,
+        0.0064,
+        0.0665
+      ]
+    },
+    {
+      "query": "a knife or scissors",
+      "score": 0.0624,
+      "box": [
+        449.78,
+        146.41,
+        462.63,
+        162.23
+      ],
+      "box_norm": [
+        0.7128,
+        0.3215,
+        0.0201,
+        0.033
+      ]
+    },
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.057,
+      "box": [
+        87.73,
+        321.58,
+        117.6,
+        368.89
+      ],
+      "box_norm": [
+        0.1604,
+        0.7192,
+        0.0467,
+        0.0986
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0557,
+      "box": [
+        558.83,
+        188.58,
+        611.64,
+        291.72
+      ],
+      "box_norm": [
+        0.9144,
+        0.5003,
+        0.0825,
+        0.2149
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0546,
+      "box": [
+        556.6,
+        149.33,
+        634.62,
+        285.57
+      ],
+      "box_norm": [
+        0.9306,
+        0.453,
+        0.1219,
+        0.2838
+      ]
+    },
+    {
+      "query": "a stool, chair, box, or ladder to step on",
+      "score": 0.0537,
+      "box": [
+        363.59,
+        279.06,
+        408.36,
+        307.36
+      ],
+      "box_norm": [
+        0.6031,
+        0.6109,
+        0.07,
+        0.059
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0526,
+      "box": [
+        185.19,
+        199.44,
+        303.78,
+        298.04
+      ],
+      "box_norm": [
+        0.382,
+        0.5182,
+        0.1853,
+        0.2054
+      ]
+    },
+    {
+      "query": "a knife or scissors",
+      "score": 0.0502,
+      "box": [
+        84.25,
+        87.97,
+        91.55,
+        101.44
+      ],
+      "box_norm": [
+        0.1373,
+        0.1973,
+        0.0114,
+        0.0281
+      ]
+    }
+  ]
+}
