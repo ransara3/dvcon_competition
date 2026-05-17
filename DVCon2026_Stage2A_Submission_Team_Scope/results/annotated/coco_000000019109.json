@@ -1,0 +1,21 @@
+{
+  "image": "coco_000000019109.jpg",
+  "detections": [
+    {
+      "query": "a bottle, bucket, bowl, or cup to carry water",
+      "score": 0.0533,
+      "box": [
+        175.4,
+        270.81,
+        204.19,
+        302.15
+      ],
+      "box_norm": [
+        0.2966,
+        0.6693,
+        0.045,
+        0.0732
+      ]
+    }
+  ]
+}
