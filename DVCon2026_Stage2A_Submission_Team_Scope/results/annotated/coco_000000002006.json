@@ -1,0 +1,37 @@
+{
+  "image": "coco_000000002006.jpg",
+  "detections": [
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0517,
+      "box": [
+        69.5,
+        195.41,
+        295.82,
+        267.5
+      ],
+      "box_norm": [
+        0.2854,
+        0.4822,
+        0.3536,
+        0.1502
+      ]
+    },
+    {
+      "query": "a chair, sofa, bench, or couch to sit on",
+      "score": 0.0507,
+      "box": [
+        227.79,
+        205.54,
+        292.3,
+        269.02
+      ],
+      "box_norm": [
+        0.4063,
+        0.4943,
+        0.1008,
+        0.1322
+      ]
+    }
+  ]
+}
