@@ -1,0 +1,53 @@
+============================================================
+DVCon India 2026 Stage 2A – Evaluation Summary
+============================================================
+Generated : 2026-05-17T14:05:08
+Images    : 20
+Queries   : 14
+
+#    Task Name                    Dets   Imgs  AvgScore  MaxScore
+----------------------------------------------------------------
+1    step on something              15      5    0.1023    0.2633
+     Query: a stool, chair, box, or ladder to step on
+
+2    sit comfortably                50      6    0.0885    0.3309
+     Query: a chair, sofa, bench, or couch to sit on
+
+3    place flowers                  13      3    0.1007    0.2142
+     Query: a vase, cup, bottle, or bowl to hold flowers
+
+4    get potatoes out of fire        0      0    0.0000    0.0000
+     Query: a fork, tongs, or kitchen utensil
+
+5    water plant                    26      2    0.0939    0.2767
+     Query: a bottle, cup, bowl, or jug to carry water
+
+6    get lemon                      51      4    0.1150    0.4252
+     Query: a spoon or fork
+
+7    dig hole                        3      2    0.0701    0.0852
+     Query: a shovel, spade, fork, or digging tool
+
+8    open beer                       2      2    0.1490    0.2268
+     Query: a knife, fork, or bottle opener
+
+9    open parcel                    14      4    0.1016    0.2933
+     Query: a knife or scissors
+
+10   serve wine                     24      3    0.1658    0.4030
+     Query: a wine glass or drinking glass
+
+11   pour sugar                     14      3    0.1429    0.3655
+     Query: a spoon or teaspoon
+
+12   smear butter                   22      5    0.1514    0.5541
+     Query: a butter knife or spatula
+
+13   extinguish fire                38      9    0.0712    0.1367
+     Query: a bottle, bucket, bowl, or cup to carry water
+
+14   pound carpet                   61      4    0.0897    0.2930
+     Query: a baseball bat, tennis racket, broom, or stick
+
+
+============================================================
